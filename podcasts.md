@@ -42,3 +42,23 @@
 ### Inflation — primary wall of worry
 
 - Real income squeezed by oil; energy pass-through was the unknown
+
+## The Flip Side — Braf Rogoff, Tom O'Malley
+ 
+**View A:** AI capex peaks around 2028 at ~$1T driven by RSI ($300B above consensus), then declines ~5% YoY.
+ 
+- **Top down:** end-market demand from LLMs (private data)
+- **Bottom up:** sum of MANGOS capex — this has kept underestimating
+- 40% of spending comes from outside hyperscalers
+- **Funding:** capex eats up to 90% of hyperscaler CFO from 2026–28
+### Realistic (not conservative) assumptions
+ 
+- New compute is serviced by not only old chips
+- Training doesn't necessarily peak in 2028
+- Nvidia's future chips get more and more expensive
+  - *Custom chips: cheaper but need a lot of lead time. Inference (over training) is the more significant use case.*
+- **Jevons paradox:** when something is cheaper/more efficient, it's used more
+### Power constraint
+ 
+- Need 13GW in 2027 and 21GW in 2028
+- **Downside:** price increase to power, environmental risk
