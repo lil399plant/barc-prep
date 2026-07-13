@@ -62,3 +62,21 @@
  
 - Need 13GW in 2027 and 21GW in 2028
 - **Downside:** price increase to power, environmental risk
+
+# Flip Side – Warsh Discussion
+*July 10th*
+
+## Warsh's Argument Against the Fed and Markets Becoming a Closed Feedback Loop
+
+- This is the worst possible time: gold freefall, crypto freefall, memory bubble, inflation at 4.0%
+- The dot plot has been historically wrong — is it worse to give worse guidance or no guidance?
+- A hold for the purpose of "intellectual purity" means sustained higher real rates on the economy
+- You should only rely on forward guidance during a crisis when you're bounded by the zero nominal floor?? — the historically increasing dependency since Greenspan is bad and should be corrected
+- If Warsh stops talking and regional Fed chairs give guidance, guidance will just be noisier, not less
+- The dot plot — should we fix it or burn it?
+
+## Conclusion
+
+If it works he looks like a visionary. If it fails he looks terrible.
+
+**Counterargument:** The guardrails were not real in the first place — they failed to stop anything, ever.
