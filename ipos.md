@@ -156,4 +156,129 @@ Prices: Bloomberg screen ~7/14. Consensus & revisions: FactSet 7/15/26. Multiple
 - **Stalling / out:** GEV 0↑/2↓ · SGRY, OPCH (drifting) · ASTS 1↑/7↓ · **TTD 1↑/33↓ (most out-of-rotation name in the dataset)**
 - Read-through for the IPOs: the screen's winners (DPC, MAIR, INIO) sit inside comp groups with positive breadth; the loser (EROC) sits inside a positive-breadth theme — its problem is idiosyncratic, which is why the street/tape gap is so extreme.
 
+#  Outside the screen — June–July deals the Barclays filter missed
+ 
+Same framework. June printed 13 IPOs for ~$95B; these five weren't on the Bloomberg screen because Barclays wasn't on the cover (Standard Nuclear, below, is the exception coming down the pipe *with* Barclays).
+ 
+## 11. Quantinuum — QNT (priced $60 on 6/3, ~flat debut; June tech-IPO cohort finished the month ~-16% per StreetAccount)
+**Questions:** Is quantum computing investable as a public equity at scale? Does Honeywell pedigree + trapped-ion leadership justify a premium over the listed quantum cohort? What does a $15B+ valuation on single-digit-millions quarterly revenue even mean?
+ 
+**What the data answers:**
+- Street conviction is startling for the numbers underneath: **13 analysts, 12 positive / 1 Hold; PT mean $98.75** (median $95.5, high $155, low $78) — ~65% above the $60 offer.
+- The numbers underneath: consensus revenue **$26.5M FY26 → $44.4M FY27**. Q1'26 revenue was $5.2M, *down 73% y/y*, with a $136.5M quarterly loss. At the ~$15.4B pricing valuation that's **~580x FY26E sales** — the most extreme multiple of any deal in this document, Fervo included.
+- Demand answered the "investable?" question emphatically: 20x+ oversubscribed, priced $5 above a twice-raised range, third-largest IPO YTD. Late-May government funding (~$2B to US quantum firms incl. Quantinuum) supplied the strategic-asset framing.
+**Left for traders:**
+- No fundamental anchor exists: the $78-vs-$155 PT spread is a pure disagreement about when (whether) quantum bookings inflect.
+- The *entire* PT range sits far above a stock that finished June below issue — the street is valuing a strategic asset while the tape is valuing a revenue statement. Which framework wins is 100% opinion; no print in 2026 settles it.
+**Lockup:**
+- Standard 180 days from the 6/3 pricing → **≈ Dec 1, 2026** (confirm early-release terms).
+- The real structure: **Honeywell retains majority ownership** — the long-run overhang and the strategic floor are the same shareholder.
+**Comps & rotation (listed quantum cohort):**
+- IONQ: FY26E $266M — **10x Quantinuum's revenue** — growing +43% to FY27E; revisions **9↑/0↓, in rotation**.
+- RGTI: FY26E $23.5M; revisions **2↑/5↓, out**. QBTS: FY26E $42.8M; 4↑/5↓, mixed.
+- Cycle: quantum pure-plays were a 2024–25 retail mania (RGTI up multiples, IonQ/D-Wave +50%+), then featured first among the June 5 pure-play double-digit decliners. QNT priced into that chop and still cleared.
+- The inversion to know: the *largest* quantum company by valuation has nearly the *smallest* revenue in the cohort — the market is paying for Honeywell lineage and fidelity metrics, not bookings.
+- Rotation verdict: **quantum is in the show-me phase; QNT is its biggest bet and its biggest multiple.**
+## 12. Kardigan — KARD (priced $16 on 6/17, closed day one $22; +49% through June-end — best June performer)
+**Questions:** Is the biotech IPO window truly open? Will investors fund pre-revenue cardiovascular assets at scale? Does a MyoKardia pedigree carry a repeatable premium?
+ 
+**What the data answers:**
+- Window: open and widening — KARD was the **fourth biotech to raise $400M+ in 2026, the most in a year since 2021**, and it upsized while pricing top-of-range.
+- Initiations just landed (~25 days post-pricing): **4 analysts, 4 Buys, PT mean $43.5** (high $51, low $37) against a stock around the low-$20s — an implied upside of **~85–95%, the single widest street-vs-tape gap of all fifteen names in this document**, eclipsing even ERock's 64%.
+- FactSet makes the risk profile explicit: consensus revenue is **$0.0 for FY26 AND FY27** (three analysts, zero variance). The equity is formally a claim on Phase 2b/3 readouts (danicamtiv in genetic DCM; ataciguat in aortic stenosis; tonlamarsen topline expected H1'27) — nothing else.
+**Left for traders:**
+- With revenue contractually zero for two years, the 4-for-4 Buy slate is priced probability-of-success — and the syndicate wrote it (JPM/Jefferies/Leerink/TD). How much to discount initiation-week enthusiasm from the banks that sold the deal is the classic judgment call.
+- Clinical binary risk is unhedgeable by fundamentals; position sizing *is* the opinion.
+**Lockup:**
+- 180 days from 6/17 pricing → **≈ Dec 15, 2026** — likely landing within months of the first major readout window, the same "insiders get a window before the binary" structure as Fervo.
+- Register: Perceptive (9.3%), FMR (5.1%), T. Rowe.
+**Comps & rotation (cardio/precision biotech):**
+- CYTK (the MyoKardia-lineage comp): FY26E $112M → FY27E $393M as aficamten launches; revisions **18↑/1↓ — one of the strongest breadths in this entire dataset**.
+- BBIO: FY26E $967M → $1.6B; **13↑/2↓, in rotation**. IONS (KARD's licensor): FY27 revisions **2↑/13↓, out**.
+- Cycle: biotech spent 2022–24 in a funding winter; 2026 is the thaw, concentrated in *de-risked, late-stage, commercial-adjacent* stories — exactly the lane CYTK's launch carved and KARD is marketing into.
+- Rotation verdict: **precision cardiology is one of the few biotech niches genuinely in rotation; KARD is a leveraged bet that the niche premium transfers to a pre-revenue name.**
+## 13. Bending Spoons — BSP (priced $29 on 6/30, above the $26–28 range; strong 7/1 debut)
+**Questions:** Will public markets fund a serial acquirer of mature consumer apps? Is "buy neglected software, cut costs, run cash flow" a durable public-market model or a private-equity trick in an IPO costume? Does the first big European tech listing of the window clear at a premium?
+ 
+**What the data answers:**
+- Pricing answered the appetite question: $1.7B at $29, **above range**, via GS/JPM/Allen & Co, and the debut worked (Renaissance's recap headline: BSP "shines").
+- Structural tell in the deal itself: **23.6M of the 58M shares (~41%) were secondary** — existing holders sold into the IPO at scale, and the market took it without a pricing penalty. That's real information about demand depth.
+- No estimates exist yet (quiet period; initiations expected ~Jul 26) — as with DPC, the current price is pure buy-side opinion, without a published framework.
+**Left for traders:**
+- The model question is unanswerable from public data yet: portfolio-app roll-ups have no clean US precedent (the philosophical comp is Constellation Software's serial-acquisition machine, applied to consumer apps like Evernote/Vimeo/WeTransfer-type assets).
+- Whether BSP gets a compounder multiple or an ad-tech-style discount will be set by the first two prints and the initiation frameworks — until then any position is a bet on category assignment.
+**Lockup:**
+- 180 days from 6/30 pricing → **≈ Dec 28, 2026**.
+- The large secondary component means the most motivated sellers already got liquidity at $29 — which slightly de-fangs the expiry.
+**Comps & rotation (consumer apps):**
+- The listed comp set is uninspiring, which is the point: MTCH FY27E growth ~+4% (revisions 1↑/2↓, stagnant); DUOL FY27E +14% (revisions 3↑/5↓, estimate σ ~$3.6M — fully mapped, momentum cooling).
+- Cycle: consumer-app equities de-rated hard from 2021 peaks and never joined the AI rotation. BSP's pitch is explicitly *not* growth — it's margin extraction and capital allocation.
+- Rotation verdict: **the category is out of rotation; BSP priced above range anyway — the market bought the operator, not the sector. That divergence is the trade.**
+## 14. ITG — ITG (priced $16 on 7/1, below the $19–22 range; opened $18, closed day one **$15.45 — below issue**)
+**Questions:** How much of the "AI infrastructure buildout" premium extends from chips and landlords down to the people who dig the trenches? Do investors accept PE-controlled, customer-concentrated services businesses at growth multiples?
+ 
+**What the data answers:**
+- The pricing itself is the answer: cut from $19–22 to $16 (~$312M vs ~$400M hoped, later $359M with the full shoe), then a below-issue first-day close. The buy-side drew the AI-premium line *above* engineering services — the same discrimination that hit ERock.
+- The discount is specific, not sectoral, and FactSet proves it: top comp **Dycom has perfect revision breadth (11↑/0↓ both fiscal years)** and MasTec is positive — the *sector* is in rotation. ITG's markdown maps to its own facts: **Comcast + Charter = 60% of revenue**, a swing to a Q1 net loss despite +48% revenue growth, $719M of debt (proceeds repay it), and **Oaktree keeping majority voting control**.
+- No coverage yet (initiations ~Jul 26).
+**Left for traders:**
+- Whether a structurally discounted entry into a genuinely in-rotation sector (fiber + data-center + utility engineering) is a value setup or a value trap.
+- Comps say the demand is real; the register says the risks are self-inflicted. A classic broken-IPO judgment call — and the second data point, after ERock, that 2026's buy-side punishes *deal structure* even when it loves the theme.
+**Lockup:**
+- 180 days from pricing → **≈ Dec 28, 2026**.
+- The Oaktree position makes this a multi-year secondary pipeline, INNIO-style — but starting from below issue.
+**Comps & rotation:**
+- DY: FY26E $7.6B → FY27E $8.5B, +11%; revisions **11↑/0↓, perfect breadth**. MTZ: +12%; 3–4↑.
+- The cautionary tale: **PRIM at 0↑/14↓ across both years — the most decisively out-of-rotation industrial in this entire dataset.**
+- Cycle: specialty E&C re-rated through 2024–25 on fiber/BEAD + data-center capex; the revision data says leaders keep compounding while laggards get abandoned — there is no middle. ITG must prove which bucket it's in by its first print.
+## 15. Lime (Neutron Holdings) — LIME (priced $25 on 6/30 at midpoint; opened $27, settled ~+4%)
+**Questions:** Can micromobility — a sector that bankrupted its poster child — clear the public bar the second time around? Is small-float, modest-valuation, cash-generative the new template for "survivor" IPOs?
+ 
+**What the data answers:**
+- It cleared, quietly: ~$174M at $25 (midpoint), ~$1.63B cap, Uber cornerstone (up to $20M; ~14% of Lime's revenue flows through Uber's app). $115M of proceeds retired debt and a new credit facility followed on 7/6 — the deal was a balance-sheet reset, not a growth raise.
+- Early independent framing exists even pre-initiation: EV/Sales ~1.4x and EV/EBITDA ~5.9x with positive FCF claimed — priced for skepticism, the anti-Quantinuum. (One early Seeking Alpha initiation is an outright Sell on normalized-FCF doubts.)
+- The float is tiny: only ~6.96M shares sold against ~65M outstanding (~11%), insiders sold a token ~277k in the deal.
+- First catalyst already on the calendar: **Q2 earnings August 4** — the earliest first print of the July class.
+**Left for traders:**
+- Seasonality and normalization: a scooter company reporting its *peak summer quarter* first (Aug 4) will show its best possible numbers. The judgment call is what Q4 in the rain looks like, and whether "positive FCF" survives fleet-replacement capex accounting.
+- Sector history (Bird's SPAC bankruptcy, Superpedestrian's shutdown) means the burden of proof is structural, not narrative.
+**Lockup:**
+- 180 days from 6/30 → **≈ Dec 28, 2026** — hitting exactly when seasonal revenue troughs.
+- An 11% float meeting a winter-quarter unlock is a setup worth diarizing in either direction.
+**Comps & rotation (mobility platforms):**
+- UBER: FY27E +15%; revisions balanced 13↑/12↓ on FY26 — massive, mapped, neutral. LYFT: +13%; mildly positive 11↑/4↓.
+- No pure comp survives — that's the thesis and the risk.
+- Rotation verdict: **mobility is post-rotation, valued on cash flow; LIME priced accordingly, which is precisely why it held while richer deals broke.**
+## Pipeline (not yet priced — calendar awareness for tomorrow)
+- **Standard Nuclear** — amended S-1 on 7/7: 18.25M shares at $18–21 (~$355M); BofA/GS representatives with **Barclays in the syndicate** — the one name here that belongs on your Barclays screen; could price imminently. Nuclear-fuel/TRISO angle rides the same clean-firm rotation as Fervo/OKLO.
+- Consumer names just joined the pipeline: **Cumberland Farms** and **Jersey Mike's** (per Renaissance's July 2 recap) — a signal the window is broadening beyond AI/power.
+- First cracks: **CopperTech Metals (~$400M) and Tarsier Pharma both postponed** without new dates — the week's below-range ITG print plus two pulls is the first soft patch of the cycle.
+- The elephants: **Anthropic** (confidentially filed; MS + GS mandated; valuation sentiment ~$1.67T; possibly October) and **OpenAI** (confidential draft S-1; reportedly leaning 2027; ~$1.33T sentiment) — Nikkei frames both as ~$50B raises. Also circling: **Kalshi** (informal bank talks; $2B+ annualized revenue), EG Group (~$9B), L3Harris missile-unit carve-out (JPM/MS), Carro (~$500M US listing), Agility Robotics ($2.5B Churchill SPAC).
+- Macro frame for all of it: **H1'26 issuance topped $250B, beating H1'21's all-time record**, and Goldman projects share issuance (1.8% of market cap) may exceed buybacks (2.0%) for the first time in 23 years — "is equity supply the next constraint" is the senior-level conversation.
+---
+ 
+## Cross-reference: lockup calendar (supply events in order)
+| Date (≈) | Event |
+|---|---|
+| Jul 28 | INIO Q2 earnings (first print on the screen) |
+| Aug (post Q2 prints) | SPCX 20% (+10% if >$175.50 trigger) release; CBRS post-Q2 tranche |
+| Aug 21 – Oct 25 | SPCX 7% time tranches (70/90/105/120/135 days) |
+| Jul 26 (≈) | BSP / ITG / LIME research initiations (25-day quiet periods end) |
+| Aug 4 | LIME Q2 earnings (first print of the July class, peak seasonal quarter) |
+| **Oct 12** | **MAIR 180-day expiry** (cornerstones already free) |
+| **Nov 8–9** | **FRVO, GMRS, BXDC, CBRS(outside date) expiries** |
+| **Nov 30 – Dec 1** | **INIO, LFTO, QNT expiries** (sponsor follow-on windows open; Honeywell majority behind QNT) |
+| **Dec 6–8** | **EROC expiry; SPCX full 180-day block** |
+| **Dec 14–15** | **KARD expiry** (lands near first readout window) |
+| **Dec 21** | **DPC expiry (incl. QIA/private-placement lockups)** |
+| **Dec 27–28** | **BSP, ITG, LIME expiries** (LIME: 11% float meets winter-trough quarter) |
+| Q1–Jun 2027 | SPCX extended investors, then Musk's 6.4B shares (Jun 12, 2027) |
+ 
+## Cross-reference: rotation scoreboard (FactSet revision breadth, latest cycle)
+- **Deep in rotation:** HWM 20↑/0↓ · NVDA 50↑/1↓ · AMD 42↑/1↓ · APP 26↑/2↓ · CYTK 18↑/1↓ · CMI 14↑/1↓ · BBIO 13↑/2↓ · RKLB 12↑/1↓ · DY 11↑/0↓ · MAIR 11↑/1↓ · IONQ 9↑/0↓ · CBRS 8↑/1↓
+- **Steady / neutral:** CAT, CARR, TT, LII, DLR, EQIX, IRM, BTSG, GNRC, BE(+), ORA(+), CRWV(mixed), MTZ(+), UBER/LYFT(balanced), QBTS(mixed)
+- **Stalling / out:** GEV 0↑/2↓ · SGRY, OPCH (drifting) · MTCH, DUOL (cooling) · RGTI 2↑/5↓ · ASTS 1↑/7↓ · IONS 2↑/13↓ · **PRIM 0↑/14↓ and TTD 1↑/33↓ (the most decisively out-of-rotation names in the dataset)**
+- Read-through for the IPOs: the screen's winners (DPC, MAIR, INIO, KARD) sit inside comp groups with positive breadth; the broken deals (EROC, ITG) sit inside *positive*-breadth themes — their problems are idiosyncratic (structure, concentration, valuation), which is why street/tape gaps are so extreme. The 2026 buy-side is punishing deal structure, not sectors.
+*Sources: FactSet Estimates, StreetAccount & consensus revisions (7/15/26); SEC prospectuses/424B4s and pricing releases for lockup terms (SPCX & CBRS staggered structures per filings coverage; others standard 180-day — verify each 424B4 before trading around a date); Bloomberg screen for prices. Multiple levels marked ~ are approximate street context. Info only — not investment advice.*
+
 *Sources: FactSet Estimates, StreetAccount & consensus revisions (7/15/26); SEC prospectuses/424B4s and pricing releases for lockup terms (SPCX & CBRS staggered structures per filings coverage; others standard 180-day — verify each 424B4 before trading around a date); Bloomberg screen for prices. Multiple levels marked ~ are approximate street context. Info only — not investment advice.*
